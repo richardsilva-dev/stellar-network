@@ -303,3 +303,4 @@ Este documento serve como base conceitual para desenvolvimento colaborativo.
 
 #(logo abaixo tem um link que redireciona a um prototipo criado com ajuda de IA)
 _https://palimpsesto-layers-space.base44.app_
+obs: veja na versão desktop se estiver usando dispositivo móvel.
