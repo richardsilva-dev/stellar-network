@@ -301,6 +301,20 @@ Sinta-se livre para:
 
 Este documento serve como base conceitual para desenvolvimento colaborativo.
 
+Resumo:
+Eu tive a ideia de uma rede social totalmente diferente das atuais, baseada em um universo espacial interativo. Nela, tudo é organizado como uma galáxia: existem sistemas solares, planetas e, dentro deles, os usuários, que seriam como cidades ou países. Cada planeta funciona como uma comunidade, onde as pessoas postam conteúdos como fotos, vídeos, textos e outros formatos.
+
+Cada sistema solar tem um tema específico (por exemplo, fotografia, tecnologia, música), e é administrado por um “Sol”, que é o primeiro usuário daquele sistema. Já cada planeta também tem um responsável, que é o primeiro habitante. Existe uma hierarquia, mas com supervisão do próprio aplicativo para evitar abusos de poder. Expulsões, por exemplo, só podem acontecer com justificativa e prova, e ainda podem ser revisadas.
+
+Para facilitar o uso, pensei em ter um sistema principal mais simples, focado em postagens rápidas (tipo fotos em geral), onde qualquer pessoa pode entrar e postar sem precisar entender toda a complexidade da plataforma. Esse sistema serviria como porta de entrada, enquanto os outros seriam mais organizados por temas.
+
+A navegação pode ser feita de várias formas: busca por nome, mapa da galáxia dividido em setores, ou até exploração em primeira pessoa, dando uma sensação mais imersiva. A interface pode evoluir de 2D para 3D, trazendo uma experiência visual mais realista, mas sem comprometer o desempenho.
+
+Também existe um sistema de “buraco negro”, que serve para apagar sistemas solares inteiros quando necessário (por decisão do administrador ou do próprio app em caso de violação), sempre com aviso prévio para que os usuários possam salvar seus dados.
+
+No geral, a ideia é unir rede social, exploração e organização em um só lugar, criando uma experiência mais envolvente, estruturada e diferente das plataformas tradicionais, mas ainda permitindo um uso simples para quem só quer entrar e postar algo rapidamente.
+
+
 #(logo abaixo tem um link que redireciona a um prototipo criado com ajuda de IA)
 _https://palimpsesto-layers-space.base44.app_
 obs: veja na versão desktop se estiver usando dispositivo móvel.
