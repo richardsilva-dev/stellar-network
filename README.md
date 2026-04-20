@@ -299,7 +299,7 @@ Sinta-se livre para:
 * modificar
 * expandir
 
-Este documento serve como base conceitual para desenvolvimento colaborativo.
+
 
 Resumo:
 Eu tive a ideia de uma rede social totalmente diferente das atuais, baseada em um universo espacial interativo. Nela, tudo é organizado como uma galáxia: existem sistemas solares, planetas e, dentro deles, os usuários, que seriam como cidades ou países. Cada planeta funciona como uma comunidade, onde as pessoas postam conteúdos como fotos, vídeos, textos e outros formatos.
@@ -313,6 +313,8 @@ A navegação pode ser feita de várias formas: busca por nome, mapa da galáxia
 Também existe um sistema de “buraco negro”, que serve para apagar sistemas solares inteiros quando necessário (por decisão do administrador ou do próprio app em caso de violação), sempre com aviso prévio para que os usuários possam salvar seus dados.
 
 No geral, a ideia é unir rede social, exploração e organização em um só lugar, criando uma experiência mais envolvente, estruturada e diferente das plataformas tradicionais, mas ainda permitindo um uso simples para quem só quer entrar e postar algo rapidamente.
+
+Este documento serve como base conceitual para desenvolvimento colaborativo.
 
 
 #(logo abaixo tem um link que redireciona a um prototipo criado com ajuda de IA)
